@@ -20,7 +20,7 @@ class QuizHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Select Quiz Topic'),
+        title: Text('Select Quiz Topic.'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
